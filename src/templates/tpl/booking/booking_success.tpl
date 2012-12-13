@@ -1,0 +1,1 @@
+<div class="span10"><div class="alert alert-success"><span class="label label-success">Success</span><br />Your booking was successful.<br />Confirmation e-mail was sent to {$email}. Make shure, that you MAY reconfirm your booking 24 hours before departure!</div></div>

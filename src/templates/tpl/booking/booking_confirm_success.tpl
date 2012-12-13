@@ -1,0 +1,1 @@
+<div class="span10"><div class="alert alert-success"><span class="label label-success">Success</span><br />Booking confirmation successfull!</div></div>

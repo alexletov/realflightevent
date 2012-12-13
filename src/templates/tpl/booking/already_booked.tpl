@@ -1,0 +1,1 @@
+<div class="span10"><div class="alert alert-error"><span class="label label-important">Error</span><br />This flight is already booked!</div></div>
